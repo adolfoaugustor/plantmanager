@@ -28,7 +28,7 @@ export function Welcome(){
             Não esqueça maias de regar suas plantas. 
             Nós cuidamos de lembrar você sempre que precisar.
          </Text>
-         <Button title="image" onPress={handleVisibility}/>
+         <Button title=">"/>
       </SafeAreaView>
    )
 }

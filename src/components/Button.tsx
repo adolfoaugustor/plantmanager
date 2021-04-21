@@ -30,6 +30,7 @@ const styles = StyleSheet.create({
       borderRadius: 16,
       marginBottom: 30,
       height: 55,
+      width: 55,
       paddingHorizontal:10
    },
    buttonText: {
